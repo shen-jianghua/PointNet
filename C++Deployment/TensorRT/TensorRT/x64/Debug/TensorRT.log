@@ -1,0 +1,196 @@
+﻿  getOptions.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\getOptions.cpp(71,21): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\getOptions.cpp(209,84): warning C4267: “=”: 从“size_t”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\getOptions.cpp(228,80): warning C4267: “=”: 从“size_t”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+  logger.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\ErrorRecorder.h(51,1): warning C4267: “return”: 从“size_t”转换到“int32_t”，可能丢失数据
+  sampleEngines.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\ErrorRecorder.h(51,1): warning C4267: “return”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda.h(13166,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_fp16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleEngines.cpp(1024,75): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleEngines.cpp(1110,44): warning C4244: “参数”: 从“int64_t”转换到“const int32_t”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\common.h(645): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<const int32_t*,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=const int32_t *,
+              _Fn=std::multiplies<int64_t>
+          ]
+  sampleInference.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\ErrorRecorder.h(51,1): warning C4267: “return”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda.h(13166,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_fp16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\common.h(645): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<const int32_t*,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=const int32_t *,
+              _Fn=std::multiplies<int64_t>
+          ]
+  sampleOptions.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  sampleReporting.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda.h(13166,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_fp16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleReporting.cpp(277,38): warning C4244: “初始化”: 从“__int64”转换到“int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleReporting.cpp(277,27): warning C4244: “初始化”: 从“__int64”转换到“const int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleReporting.cpp(283,103): warning C4267: “参数”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\common.h(645): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<const int32_t*,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=const int32_t *,
+              _Fn=std::multiplies<int64_t>
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleReporting.cpp(69,1): warning C4267: “初始化”: 从“size_t”转换到“int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleReporting.cpp(185): message : 查看对正在编译的函数 模板 实例化“float sample::`anonymous-namespace'::findMedian<std::function<float (const sample::InferenceTime &)>>(const std::vector<sample::InferenceTime,std::allocator<sample::InferenceTime>> &,const T &)”的引用
+          with
+          [
+              T=std::function<float (const sample::InferenceTime &)>
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleReporting.cpp(69,1): warning C4267: “初始化”: 从“size_t”转换到“const int32_t”，可能丢失数据
+  sampleUtils.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda.h(13166,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_fp16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\common.h(645): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<const int32_t*,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=const int32_t *,
+              _Fn=std::multiplies<int64_t>
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleUtils.cpp(417,27): warning C4244: “初始化”: 从“int64_t”转换到“int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleUtils.cpp(353): message : 查看对正在编译的函数 模板 实例化“void sample::sparsify<float>(const T *,int64_t,int32_t,int32_t,std::vector<int8_t,std::allocator<int8_t>> &)”的引用
+          with
+          [
+              T=float
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleUtils.cpp(417,23): warning C4244: “初始化”: 从“int64_t”转换到“const int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleUtils.cpp(428,53): warning C4244: “参数”: 从“int64_t”转换到“int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleUtils.cpp(428,49): warning C4244: “参数”: 从“int64_t”转换到“int32_t”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\sampleUtils.cpp(428,45): warning C4244: “参数”: 从“int64_t”转换到“int32_t”，可能丢失数据
+  main.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\main.cpp(287,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\common.h(645): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<const int32_t*,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=const int32_t *,
+              _Fn=std::multiplies<int64_t>
+          ]
+  TensorRT.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\AlgorithmLibrary\TensorRT-8.4.1.5\include\NvInfer.h(5349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\TensorRT.cpp(52,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\TensorRT.cpp(75,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\TensorRT.cpp(200,21): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\TensorRT\common\common.h(645): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<const int32_t*,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=const int32_t *,
+              _Fn=std::multiplies<int64_t>
+          ]
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 getopt_long，函数 "bool __cdecl samplesCommon::parseArgs(struct samplesCommon::Args &,int,char * * const)" (?parseArgs@samplesCommon@@YA_NAEAUArgs@1@HQEAPEAD@Z) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 optarg
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\x64\Debug\TensorRT.exe : fatal error LNK1120: 2 个无法解析的外部命令

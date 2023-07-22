@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2001: 无法解析的外部符号 optarg
+main.obj : error LNK2001: 无法解析的外部符号 getopt_long
+E:\SANY\Program\Pytorch\PointNet\C++Deployment\TensorRT\x64\Release\TensorRT.exe : fatal error LNK1120: 2 个无法解析的外部命令
